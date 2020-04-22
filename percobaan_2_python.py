@@ -1,4 +1,3 @@
-import class1   
   #Identitas
 def non_return_func(praktikan1, praktikan2):
     print(f"{praktikan1} - 21120119140120 dan {praktikan2} - 21120119140145")
@@ -157,7 +156,7 @@ else:
     for jenis in item:
         print(jenis)
         
-p1 = class1.Rawr(j,h)    
+   
 
 print("\n--TERIMAKASIH SUDAH MENGUNJUNGI/MEMBELI DI TOKO KAMI--\n")
 
